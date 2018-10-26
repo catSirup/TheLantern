@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5ae5164a0966e4f42b221362fa754496
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - a_JumpSound: {fileID: 8300000, guid: fe5f4dc6b2bfc0540ba2760e96a9ed95, type: 3}
+  - a_ThrowSound: {fileID: 8300000, guid: 654b211f52c795345a58e8edee52f2bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
